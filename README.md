@@ -1,5 +1,5 @@
 # Indian-Sign-Language-dataset
-Indian Sign Language Alphabet Dataset
+Indian Sign Language Image Dataset
 
 This repository contains a 12,700 strong image dataset containing ISL signage of the 26 English alphabets. 
 There are 26 classes and 486 processed and augmented images per class and these images can undergo further augmentation to boost the size and increase the images per class.
